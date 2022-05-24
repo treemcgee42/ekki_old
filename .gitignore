@@ -1,2 +1,7 @@
 # Project exclude paths
 /cmake-build-debug/
+/dependencies/GLFW/lib-x86_64/*
+/dependencies/GLEW/tmp/*
+/dependencies/GLEW/lib/*
+/dependencies/GLEW/bin/*
+imgui.ini

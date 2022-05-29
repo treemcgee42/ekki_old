@@ -32,6 +32,7 @@ file(GLOB SOURCES
         dependencies/imgui/imgui.cpp
         dependencies/imgui/
         src/*.cpp
+        src/ui/*
         )
 
 add_executable(ekki ${SOURCES})
